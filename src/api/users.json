@@ -1,0 +1,1 @@
+[{"Name":"Royals","City":"KC","stadium":{"Capacity":40000,"Name":"The K","TicketPrice":35}},{"Name":"Tigers","City":"Detroit","stadium":{"Capacity":400500,"Name":"TIGER STADIUM","TicketPrice":35},"Players":[{"FirstName":"Jack","LastName":"Fay","age":22,"salary":5000000},{"FirstName":"Justin","LastName":"Verlander","age":22,"salary":5000000}]}]
